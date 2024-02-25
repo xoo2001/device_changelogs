@@ -1,0 +1,8 @@
+Include camera raw enabler (by Spencer_D)
+Fix Statusbar padding
+Import Layout fingerprint 
+Include thermal Mod (by Laynsb )
+Allow all filesystems for USB-OTG
+Reduces the brightness on the camera
+Set default refresh rate to 90
+Add ext4 file system to product and system_ext
